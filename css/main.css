@@ -42,6 +42,8 @@
 /* 1. Global */
 /* 1.1 Libs */
 
+
+
 @import url(bootstrap-grid.min.css);
 @import url(jquery.pagepiling.min.css);
 @import url(swiper-bundle.min.css);
@@ -110,7 +112,9 @@
   display: block;
   font-size: 0;
   line-height: 0;
-  padding-top: 105%; }
+  padding-top: 105%;
+ 
+ }
 
 .svg-image-instagram-dims {
   width: 20px;
